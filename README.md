@@ -1,8 +1,8 @@
-## The HackerNoon Font 2.0
+## The HackerNoon Font
 
 This is the source repository for HackerNoon Font: HackerNoon’s signature pixel font. The font comes in 26 letters, 10 numbers, and 31 exciting special characters.
 
-HackerNoon Font 2.0 is here! 
+## HackerNoon Font 2.0 is here! 
 
 Just like the original font, HackerNoon Font 2.0, or #HF2 is designed using a five-by-five grid system in which each letter shares the same exact width and height as one another, making this font all the more unique in the first place.
 
