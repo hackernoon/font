@@ -4,7 +4,7 @@ This is the source repository for HackerNoon Font: HackerNoon’s signature pixe
 
 ## HackerNoon Font 2.0 is here! 
 
-Just like the original font, HackerNoon Font 2.0, or #HF2 is designed using a five-by-five grid system in which each letter shares the same exact width and height as one another, making this font all the more unique in the first place.
+Just like the original font, HackerNoon Font 2.0, or #HF2, is designed using a five-by-five grid system in which each letter shares the same exact width and height as one another, making this font all the more unique in the first place.
 
 However, in this version, all the edges on each letter are now 100% curved, giving the font a cleaner and more modern look. #HF2 emphasizes more on readability and usability - it is prompted to be utilized more in common settings like body text other than just headings and titles.
 
